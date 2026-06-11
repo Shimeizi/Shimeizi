@@ -65,8 +65,9 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning+by+building+and+improving+every+day.&author=Shimeizi+Jin" />
 
 
-<!-- Stats Card -->
+<!-- Stats Card 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimeizi&show_icons=true&theme=radical)
+-->
 
 
 <!-- 3D Contribution -->
