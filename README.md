@@ -1,18 +1,19 @@
 <div align="center">
 
 
-  <!-- Knock Code Pictures -->
+  <!-- Knock Code Pictures 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  </picture> 
 
   <!-- for beauty -->
   <div>&nbsp;</div>
+  -->
 
 
-<!-- Dynamic Emojis -->
+<!-- Dynamic Emojis 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
@@ -25,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Peacock.png" alt="Peacock" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />
-</div>
+</div> -->
 
 
 <!-- Welcome words -->
@@ -61,8 +62,9 @@
 </p>
 
 
-<!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning+by+building+and+improving+every+day.&author=Shimeizi+Jin" />
+<!-- Motto 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learning+by+building+and+improving+every+day.&author=Shimeizi+Jin" /> 
+-->
 
 
 <!-- Stats Card 
