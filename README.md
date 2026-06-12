@@ -72,6 +72,7 @@
 -->
 
 
-<!-- 3D Contribution -->
+<!-- 3D Contribution 
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/Shimeizi/Shimeizi/main/profile-3d-contrib/profile-night-rainbow.svg)
+-->
 
